@@ -19,6 +19,7 @@ The dataset consists of 4 tables:
 
 # 🔍 Key Analysis Performed
 ▶ 🧩 Basic Analysis
+
   ● Total orders placed 
    
   ● Total revenue generated
